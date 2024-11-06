@@ -14,4 +14,4 @@ Supports conversions between Celsius, Fahrenheit, and Kelvin.
 Simple user interface for input.
 Error handling for invalid units.
 
-Feel free to reach out if you have any questions or feedback about this repository. Connect with me on LinkedIn ![(www.linkedin.com/in/swetha-t-s)]
+Feel free to reach out if you have any questions or feedback about this repository. Connect with me on LinkedIn! www.linkedin.com/in/swetha-t-s
